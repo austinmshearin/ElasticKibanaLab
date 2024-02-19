@@ -1,2 +1,2 @@
 # ElasticKibanaLab
-Experimentation with ElasticSearch and Kibana
+The ElasticKibanaLab is for experimenting with ElasticSearch and Kibana utilizing containers to host both services
