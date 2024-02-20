@@ -4,7 +4,7 @@ bokeh
 boto3
 cryptography
 dask
-elasticsearch
+elasticsearch==7.15.0
 flask
 jupyterlab
 keras

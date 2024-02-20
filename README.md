@@ -21,3 +21,6 @@ The parent directory for the project should not contain any spaces for the batch
 
 # Jupyter
 * Run the jupyter/Python Jupyter Start.bat script to launch the Jupyter UI
+
+# Data
+* Dummy data exists within the Data directory and can be loaded into ElasticSearch using the load_data.py file
