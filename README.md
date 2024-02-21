@@ -8,7 +8,7 @@ The parent directory for the project should not contain any spaces for the batch
 
 ## ElasticSearch and Kibana
 * Be sure Docker Desktop is currently running
-* Run the Docker/launch.bat script to deploy ElasticSearch and Kibana as container services
+* Run the Docker/Elastic Kibana Service Start.bat script to deploy ElasticSearch and Kibana as container services
 
 ## Python and Jupyter
 * Run the UtilityScripts/Python Virtual Environment Initialization.bat script to set up the Python virtual environment
@@ -20,7 +20,7 @@ The parent directory for the project should not contain any spaces for the batch
     * The username and password is elastic
 
 # Jupyter
-* Run the jupyter/Python Jupyter Start.bat script to launch the Jupyter UI
+* Run the Jupyter/Python Jupyter Start.bat script to launch the Jupyter UI
 
 # Data
 * Dummy data exists within the Data directory and can be loaded into ElasticSearch using the load_data.py file
